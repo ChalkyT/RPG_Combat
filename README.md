@@ -10,6 +10,7 @@ Damage and Health
 All Characters, when created, have:
   - Health, starting at 1000
   - May be Alive or Dead, starting Alive
+  
 Characters can Deal Damage to Characters.
   - Damage is subtracted from Health
   - When damage received exceeds current Health, Health becomes 0 and the character dies
